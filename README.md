@@ -7,6 +7,7 @@
   - EJS
   - JavaScript
   - Express
+  - Bootstrap
   - Lodash
 
 ### clone repo
