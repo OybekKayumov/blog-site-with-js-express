@@ -16,6 +16,6 @@
 
 ### npm start
 
-### add post link "/compose"
+### link to add a new post: "/compose"
 
 # 2023 - 02
