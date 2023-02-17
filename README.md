@@ -6,6 +6,7 @@
   - HTML
   - EJS
   - JavaScript
+  - Nodejs
   - Express
   - Bootstrap
   - Lodash
